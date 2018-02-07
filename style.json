@@ -1,10 +1,10 @@
 {
   "version": 8,
-  "center": [
-    46.15,
-    5.16
+  "center": [ // #4.85/17.66/-4.65
+    -4.65,
+    17.66
   ],
-  "zoom": 4.95,
+  "zoom": 4.85,
   "sources": {
     "openmaptiles": {
       "type": "vector",
